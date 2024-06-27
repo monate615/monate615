@@ -4,7 +4,7 @@
 <a href="https://monate615.github.io/portfolio/">Portfolio</a>
 <h2>💪 Expert in AI Integrated App Development and AI Model Development</h2>
 <h3>💎 AI Expertise</h3>
-<p>Profound knowledge in ChatGPT, GPT-4, AI Chatbots, Natural Language Processing (NLP), and Large Language Models (LLMs). My toolbox includes OpenAI, LangChain, and advanced vector databases, mastering LLMs such as ChatGPT, GPT-4, Llama, Falcon, Mistral DallE, Midjourney, Stable diffusion, Claude 3(Haiku, Sonnet, and Opus), Gemma, Runpod, Ollama, Modal, all integrated seamlessly with Python. AI agents expert with excellent grip over, CrewAI, crew ai, Autogen and customize AI agents development, AI Voice Agents using Air.ai, Bland and platform like Botpress, automations using Make.com, Zapier and n8n for AI automations and more.</p>
+<p>Profound knowledge in ChatGPT, GPT-4, AI Chatbots, Natural Language Processing (NLP), and Large Language Models (LLMs). Our toolbox includes OpenAI, LangChain, and advanced vector databases, mastering LLMs such as ChatGPT, GPT-4, Llama, Falcon, Mistral DallE, Midjourney, Stable diffusion, Claude 3(Haiku, Sonnet, and Opus), Gemma, Runpod, Ollama, Modal, all integrated seamlessly with Python. AI agents expert with excellent grip over, CrewAI, crew ai, Autogen and customize AI agents development, AI Voice Agents using Air.ai, Bland and platform like Botpress, automations using Make.com, Zapier and n8n for AI automations and more.</p>
 <h3>👨🏼‍💻 Custom AI Solutions</h3>
 <p>Specialize in developing custom chatbots tailored to your needs, employing the latest in AI technology. Whether it's engaging customer service bots or sophisticated conversational agents, bring your vision to life.</p>
 <h3>🦾 AI-Driven Innovation</h3>
