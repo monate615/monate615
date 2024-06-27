@@ -10,7 +10,7 @@
 <h3>🦾 AI-Driven Innovation</h3>
 <p>From precise Prompt Engineering to deploying AI Agents and OpenAI Assistants, adept in AI Automation, Text Classification, Generation, and Summarization. Expertise extends to implementing Huggingface models and creating dynamic spaces for interactive AI experiences.</p>
 <h2>👍 List of technologies specialized in:</h2>
-<a href="https://github.com/monate615/repo-hub/blob/main/AI%20Integrated%20App%20Development.md"><h3>✨ AI Integrated App Development</h3></a>
+<h3><a href="https://github.com/monate615/repo-hub/blob/main/AI%20Integrated%20App%20Development.md">✨ AI Integrated App Development</a></h3>
 This is the most successful field.
 <p>✔️ OpenAI's GPT4 API to take user prompts.</p>
 <p>✔️ OpenAI Assistants API.</p>
@@ -20,13 +20,13 @@ This is the most successful field.
 <p>✔️ Comfortable with NSFW contents</p>
 <p>✔️ Automation and integration using chatGPT API. ChatGPT API Integration.</p>
 <p>✔️ Prompt Engineer with a great experience in designing a variety of problems for a variety of AI Use cases.</p>
-<a href="https://github.com/monate615/repo-hub/blob/main/AI%20Model%20Development.md"><h3>✨ AI Model Development</h3></a>
+<h3><a href="https://github.com/monate615/repo-hub/blob/main/AI%20Model%20Development.md">✨ AI Model Development</a></h3>
 This is the most effective commercial.
 <p>✔️ GPT Apps development using python GPT Langchain Pinecone Weaviate FAISS Chromadb PG vector.</p>
 <p>✔️ Chatgpt plugins development.</p>
 <p>✔️ Fine-tuning Expert of various kind of AI models including ChatGPT, DALL-E, Stable Diffusion and so on.</p>
 <p>✔️ Expertise in development of CV models such as YOLO, VGG, ResNet, GoogleNet and so on.</p>
-<a href="https://github.com/monate615/repo-hub/blob/main/Extra%20Software%20Services.md"><h3>✨ Software Development</h3></a>
+<h3><a href="https://github.com/monate615/repo-hub/blob/main/Extra%20Software%20Services.md">✨ Software Development</a></h3>
 These are plugin services.
 <p>✔️ Expertise in React.js, Next.js and Python backends such as FastAPI or Django.</p>
 <p>✔️ Implementing API service with OpenAPI</p>
