@@ -4,12 +4,12 @@
 <h3>💎 AI Expertise</h3>
 <p>Profound knowledge in ChatGPT, GPT-4, AI Chatbots, Natural Language Processing (NLP), and Large Language Models (LLMs). My toolbox includes OpenAI, LangChain, and advanced vector databases, mastering LLMs such as ChatGPT, GPT-4, Llama, Falcon, Mistral DallE, Midjourney, Stable diffusion, Claude 3(Haiku, Sonnet, and Opus), Gemma, Runpod, Ollama, Modal, all integrated seamlessly with Python. AI agents expert with excellent grip over, CrewAI, crew ai, Autogen and customize AI agents development, AI Voice Agents using Air.ai, Bland and platform like Botpress, automations using Make.com, Zapier and n8n for AI automations and more.</p>
 <h3>👨🏼‍💻 Custom AI Solutions</h3>
-<p>I specialize in developing custom chatbots tailored to your needs, employing the latest in AI technology. Whether it's engaging customer service bots or sophisticated conversational agents, I bring your vision to life.</p>
+<p>Specialize in developing custom chatbots tailored to your needs, employing the latest in AI technology. Whether it's engaging customer service bots or sophisticated conversational agents, bring your vision to life.</p>
 <h3>🦾 AI-Driven Innovation</h3>
-<p>From precise Prompt Engineering to deploying AI Agents and OpenAI Assistants, I'm adept in AI Automation, Text Classification, Generation, and Summarization. My expertise extends to implementing Huggingface models and creating dynamic spaces for interactive AI experiences.</p>
+<p>From precise Prompt Engineering to deploying AI Agents and OpenAI Assistants, adept in AI Automation, Text Classification, Generation, and Summarization. Expertise extends to implementing Huggingface models and creating dynamic spaces for interactive AI experiences.</p>
 <h2>👍 List of technologies specialized in:</h2>
 <h3>✨ AI Integrated App Development</h3>
-This was the most successful field in our team's development life.
+This is the most successful field.
 <p>✔️ OpenAI's GPT4 API to take user prompts.</p>
 <p>✔️ OpenAI Assistants API.</p>
 <p>✔️ Python solutions using chatgpt API, Whisper API, GPT4 model and other openai API services.</p>
@@ -19,6 +19,7 @@ This was the most successful field in our team's development life.
 <p>✔️ Automation and integration using chatGPT API. ChatGPT API Integration.</p>
 <p>✔️ Prompt Engineer with a great experience in designing a variety of problems for a variety of AI Use cases.</p>
 <h3>✨ AI Model Development</h3>
+This is the most effective commercial.
 <p>✔️ GPT Apps development using python GPT Langchain Pinecone Weaviate FAISS Chromadb PG vector.</p>
 <p>✔️ Chatgpt plugins development.</p>
 <p>✔️ Fine-tuning Expert of various kind of AI models including ChatGPT, DALL-E, Stable Diffusion and so on.</p>
