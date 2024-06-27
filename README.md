@@ -1,8 +1,10 @@
 <h1>👋 Hi, I’m @monate615</h1>
-- 💪 I'm expert in AI Integrated App Development and AI Model Development
+<br />
+<h2>💪 I'm expert in AI Integrated App Development and AI Model Development</h2>
 - 💎 AI Expertise - Profound knowledge in ChatGPT, GPT-4, AI Chatbots, Natural Language Processing (NLP), and Large Language Models (LLMs). My toolbox includes OpenAI, LangChain, and advanced vector databases, mastering LLMs such as ChatGPT, GPT-4, Llama, Falcon, Mistral DallE, Midjourney, Stable diffusion, Claude 3(Haiku, Sonnet, and Opus), Gemma, Runpod, Ollama, Modal, all integrated seamlessly with Python. AI agents expert with excellent grip over, CrewAI, crew ai, Autogen and customize AI agents development, AI Voice Agents using Air.ai, Bland and platform like Botpress, automations using Make.com, Zapier and n8n for AI automations and more.
 - 👨🏼‍💻 Custom AI Solutions - I specialize in developing custom chatbots tailored to your needs, employing the latest in AI technology. Whether it's engaging customer service bots or sophisticated conversational agents, I bring your vision to life.
 - 🦾 AI-Driven Innovation - From precise Prompt Engineering to deploying AI Agents and OpenAI Assistants, I'm adept in AI Automation, Text Classification, Generation, and Summarization. My expertise extends to implementing Huggingface models and creating dynamic spaces for interactive AI experiences.
+<br />
 - List of technologies I specialized in:
 ✔️ GPT Apps development using python GPT Langchain Pinecone Weaviate FAISS Chromadb PG vector
 ✔️ Automation and integration using chatGPT API. ChatGPT API Integration.
