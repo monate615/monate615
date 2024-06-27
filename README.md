@@ -1,6 +1,6 @@
 <h1>👋 Welcome to @monate615 team</h1>
 <p>💲 Earned +$250K per year with AI 💲 <br />(Easy but long time with AI integrated app development, difficult but high salary and short time with AI model development)</p>
-<a href="https://github.com/monate615/repo-hub/blob/main/README.md">View our repositories</a>
+<a href="https://github.com/monate615/repo-hub/blob/main/README.md">View our repositories</a> and 
 <a href="https://monate615.github.io/portfolio/">Portfolio</a>
 <h2>💪 Expert in AI Integrated App Development and AI Model Development</h2>
 <h3>💎 AI Expertise</h3>
