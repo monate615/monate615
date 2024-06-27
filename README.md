@@ -25,6 +25,7 @@ This is the most effective commercial.
 <p>✔️ Fine-tuning Expert of various kind of AI models including ChatGPT, DALL-E, Stable Diffusion and so on.</p>
 <p>✔️ Expertise in development of CV models such as YOLO, VGG, ResNet, GoogleNet and so on.</p>
 <h3>✨ Software Development</h3>
+These are plugin services.
 <p>✔️ Expertise in React.js, Next.js and Python backends such as FastAPI or Django.</p>
 <p>✔️ Implementing API service with OpenAPI</p>
 <p>✔️ Cryptocurrency Expert with BlockChain</p>
