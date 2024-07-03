@@ -12,24 +12,24 @@
 <h2>👍 List of technologies specialized in:</h2>
 <h3><a href="https://github.com/monate615/repo-hub/blob/main/AI%20Integrated%20App%20Development.md">✨ AI Integrated App Development</a></h3>
 This is the most successful field.
-<p>✔️ OpenAI's GPT4 API to take user prompts.</p>
-<p>✔️ OpenAI Assistants API.</p>
-<p>✔️ Python solutions using chatgpt API, Whisper API, GPT4 model and other openai API services.</p>
-<p>✔️ NSFW chatbot developments, AI influencer chatbot development</p>
-<p>✔️ State-of-art Generative AI models such as Stable Diffusion, DALL-E, DreamBooth, Midjourney and so on from 💖huggingface and 💖civitai</p>
-<p>✔️ Comfortable with NSFW contents</p>
-<p>✔️ Automation and integration using chatGPT API. ChatGPT API Integration.</p>
-<p>✔️ Prompt Engineer with a great experience in designing a variety of problems for a variety of AI Use cases.</p>
+<p>✔️ OpenAI's GPT4 API to take user prompts.<br>
+✔️ OpenAI Assistants API.<br>
+✔️ Python solutions using chatgpt API, Whisper API, GPT4 model and other openai API services.<br>
+✔️ NSFW chatbot developments, AI influencer chatbot development<br>
+✔️ State-of-art Generative AI models such as Stable Diffusion, DALL-E, DreamBooth, Midjourney and so on from 💖huggingface and 💖civitai<br>
+✔️ Comfortable with NSFW contents<br>
+✔️ Automation and integration using chatGPT API. ChatGPT API Integration.<br>
+✔️ Prompt Engineer with a great experience in designing a variety of problems for a variety of AI Use cases.</p>
 <h3><a href="https://github.com/monate615/repo-hub/blob/main/AI%20Model%20Development.md">✨ AI Model Development</a></h3>
 This is the most effective commercial.
-<p>✔️ GPT Apps development using python GPT Langchain Pinecone Weaviate FAISS Chromadb PG vector.</p>
-<p>✔️ Chatgpt plugins development.</p>
-<p>✔️ Fine-tuning Expert of various kind of AI models including ChatGPT, DALL-E, Stable Diffusion and so on.</p>
-<p>✔️ Expertise in development of CV models such as YOLO, VGG, ResNet, GoogleNet and so on.</p>
+<p>✔️ GPT Apps development using python GPT Langchain Pinecone Weaviate FAISS Chromadb PG vector.<br>
+✔️ Chatgpt plugins development.<br>
+✔️ Fine-tuning Expert of various kind of AI models including ChatGPT, DALL-E, Stable Diffusion and so on.<br>
+✔️ Expertise in development of CV models such as YOLO, VGG, ResNet, GoogleNet and so on.<br>
 <h3><a href="https://github.com/monate615/repo-hub/blob/main/Extra%20Software%20Services.md">✨ Software Development</a></h3>
 These are plugin services.
-<p>✔️ Expertise in React.js, Next.js and Python backends such as FastAPI or Django.</p>
-<p>✔️ Implementing API service with OpenAPI</p>
-<p>✔️ Cryptocurrency Expert with BlockChain</p>
-<p>✔️ Mobile App Development with React-Native, FlutterFlow, Swift, Xamarin.Forms</p>
+✔️ Expertise in React.js, Next.js and Python backends such as FastAPI or Django.<br>
+✔️ Implementing API service with OpenAPI<br>
+✔️ Cryptocurrency Expert with BlockChain<br>
+✔️ Mobile App Development with React-Native, FlutterFlow, Swift, Xamarin.Forms</p>
 <a href="https://github.com/monate615/repo-hub/blob/main/README.md">View our repositories</a>
