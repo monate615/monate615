@@ -28,7 +28,7 @@ This is the most effective commercial.
 ✔️ Expertise in development of CV models such as YOLO, VGG, ResNet, GoogleNet and so on.<br>
 <h3><a href="https://github.com/monate615/repo-hub/blob/main/Extra%20Software%20Services.md">✨ Software Development</a></h3>
 These are plugin services.
-✔️ Expertise in React.js, Next.js and Python backends such as FastAPI or Django.<br>
+<p>✔️ Expertise in React.js, Next.js and Python backends such as FastAPI or Django.<br>
 ✔️ Implementing API service with OpenAPI<br>
 ✔️ Cryptocurrency Expert with BlockChain<br>
 ✔️ Mobile App Development with React-Native, FlutterFlow, Swift, Xamarin.Forms</p>
